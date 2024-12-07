@@ -1,3 +1,5 @@
 Este Archivo incluye los avances realozados durante el desarrollo del proyecto.
 Primer Avance - 1
 Segundo Avance - 2
+Cambios conflictivos desde la rama principal: main
+Rama main y feature/avances fusionada
